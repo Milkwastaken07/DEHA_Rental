@@ -1,0 +1,13 @@
+Received/*
+# client
+build
+dist
+node_modules
+.next
+
+# server
+venv
+*.pyc
+*.whl
+
+.env
